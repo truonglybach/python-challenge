@@ -61,10 +61,6 @@ r_avg_diff = round(avg_diff, 2)
 # that being, the greatest inc/dec in profits
 g_inc_profits = max(diff_btwn)
 g_dec_profits = min(diff_btwn)
-print(diff_btwn)
-print(g_inc_profits)
-print(g_dec_profits)
-
 
 # In[155]:
 
